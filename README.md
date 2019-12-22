@@ -5,4 +5,4 @@
 - VS2015
 
 ## Usage
-- 打开simple.sln，运行simple.cpp
+打开simple.sln，运行simple.cpp
